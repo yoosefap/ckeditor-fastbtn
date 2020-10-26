@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/yoosefap/ckeditor5-fastbtn.git"
   },
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A simple way to edit and add buttons in the editor toolbar",
   "keywords": [
     "ckeditor",
@@ -15,9 +15,7 @@
   "dependencies": {
     "@ckeditor/ckeditor5-core": "^11.0.1",
     "@ckeditor/ckeditor5-engine": "^11.0.0",
-    "@ckeditor/ckeditor5-ui": "^11.1.0",
-    "awesomplete": "^1.1.2",
-    "axios": "^0.18.0"
+    "@ckeditor/ckeditor5-ui": "^11.1.0"
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-editor-classic": "^11.0.1",
